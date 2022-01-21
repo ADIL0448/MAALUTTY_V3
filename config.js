@@ -29,10 +29,10 @@ module.exports = {
     WELCOME: process.env.WELCOME === undefined ? 'pp' : process.env.WELCOME,
     OWNER: process.env.OWNER_NAME === undefined ? '💖Nijin and Husni💖' : process.env.OWNER_NAME,
     BC: process.env.BROADCAST_NAME === undefined ? 'ɪ̄.ᴀᴍ/ꪶ͢ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3ꫂ⁩' : process.env.BROADCAST_NAME,
-    PHONE: process.env.NUMBER === undefined ? '+917025868709' : process.env.NUMBER,   
+    PHONE: process.env.NUMBER === undefined ? '+919562416078' : process.env.NUMBER,   
     OA_NAME: process.env.DEPLOYER === undefined ? 'Nijin,Husni' : process.env.DEPLOYER,
     ALL: process.env.ALL_CAPTION === undefined ? 'Made By MAALUTTY' : process.env.ALL_CAPTION,
-    MENTION: process.env.TAG_REPLY === undefined ? '917025868709@s.whatsapp.net' : process.env.TAG_REPLY,
+    MENTION: process.env.TAG_REPLY === undefined ? '919562416078@s.whatsapp.net' : process.env.TAG_REPLY,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     PLKS: process.env.THERI_LIST === undefined ? false : process.env.THERI_LIST,
     AFPLK: process.env.MAALUTTY_PASSWORD === undefined ? false : process.env.MAALUTTY_PASSWORD,
@@ -74,7 +74,7 @@ module.exports = {
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     TAGPLK: process.env.TAG_HEADER === undefined ? 'Note this' : process.env.TAG_HEADER,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
-    YAK: process.env.YAK === undefined ? '919605741366,0,917994909899,0' : process.env.YAK,
+    YAK: process.env.YAK === undefined ? '919562416078,0,919562416078,0' : process.env.YAK,
     BRANCH: 'master',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
@@ -88,7 +88,7 @@ module.exports = {
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "919072790587-1635775355",
-    SUPPORT2: "905511384572-1617736751",
-    SUPPORT3: "905511384572-1621015274"
+    SUPPORT: "919562416078-1635775355",
+    SUPPORT2: "9562416078-1617736751",
+    SUPPORT3: "9562416078-1621015274"
 };
